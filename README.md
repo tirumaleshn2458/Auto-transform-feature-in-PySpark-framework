@@ -284,7 +284,7 @@ Built on Apache Spark and distributed under the **Apache License 2.0**. See the 
 
 **Tirumalesh Nagothi** — Software Engineer (Chicago, IL)
 
-- Portfolio: [[tirumaleshn2458.github.io](https://tirumaleshn2458.github.io](https://tirumaleshn2458.github.io/tirumaleshportfolio.github.io/)]
+- Portfolio: [tirumaleshn2458.github.io](https://tirumaleshn2458.github.io](https://tirumaleshn2458.github.io/tirumaleshportfolio.github.io/)
 - LinkedIn: [linkedin.com/in/tirumalesh-nagothi](https://www.linkedin.com/in/tirumalesh-nagothi/)
 - GitHub: [@tirumaleshn2458](https://github.com/tirumaleshn2458)
 
